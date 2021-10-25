@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "AC/DC",
+    "album": "Highway to Hell",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Acdc_Highway_to_Hell.JPG/220px-Acdc_Highway_to_Hell.JPG",
+    "owned": true
+  },
+  {
+    "artist": "Kraftwerk",
+    "album": "Die Mensch-Maschine",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/The_Man_Machine_2009.jpg/220px-The_Man_Machine_2009.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Rage Against the Machine",
+    "album": "Rage Against the Machine",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/RageAgainsttheMachineRageAgainsttheMachine.jpg/220px-RageAgainsttheMachineRageAgainsttheMachine.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png/220px-Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png",
+    "owned": true
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin II",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Led_Zeppelin_-_Led_Zeppelin_II.jpg/220px-Led_Zeppelin_-_Led_Zeppelin_II.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin III",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Led_Zeppelin_-_Led_Zeppelin_III.png/220px-Led_Zeppelin_-_Led_Zeppelin_III.png",
+    "owned": true
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg/220px-Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+    "owned": true
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "The White Stripes Greatest Hits",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/The_White_Stripes_-_Greatest_Hits.png/220px-The_White_Stripes_-_Greatest_Hits.png",
+    "owned": true
+  },
+  {
+    "artist": "Various Artists",
+    "album": "Ed Rec Vol. X ",
+    "cover": "https://img.discogs.com/5p2GJSBGBFsrslOUgbF9cM5EhFo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12273316-1531922160-7754.jpeg.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Various Artists",
+    "album": "Ed Banger 15 Ans",
+    "cover": "https://img.discogs.com/YJ0D4lRgCSjLGu7UyBYYK3uBsLQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13597896-1557230350-5687.jpeg.jpg",
+    "owned": true
+  }
+]
