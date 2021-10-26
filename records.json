@@ -238,5 +238,89 @@
     "album": "The Velvet Underground & Nico",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Velvet_Underground_and_Nico.jpg/220px-Velvet_Underground_and_Nico.jpg",
     "owned": false
+  },
+  {
+    "artist": "Moby",
+    "album": "Play",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Moby_play.JPG/220px-Moby_play.JPG",
+    "owned": false
+  },
+  {
+    "artist": "Outkast",
+    "album": "Stankonia",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/OutKast_-_Stankonia.JPG/220px-OutKast_-_Stankonia.JPG",
+    "owned": false
+  },
+  {
+    "artist": "Röyksopp",
+    "album": "The Inevitable End",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/R%C3%B6yksopp_-_The_Inevitable_End_-_cover.png/220px-R%C3%B6yksopp_-_The_Inevitable_End_-_cover.png",
+    "owned": false
+  },
+  {
+    "artist": "Alanis Morissette",
+    "album": "Jagged Little Pill",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Alanis_Morissette_-_Jagged_Little_Pill.jpg/220px-Alanis_Morissette_-_Jagged_Little_Pill.jpg",
+    "owned": false
+  },
+  {
+    "artist": "REM",
+    "album": "Out Of Time",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/R.E.M._-_Out_of_Time.jpg/220px-R.E.M._-_Out_of_Time.jpg",
+    "owned": false
+  },
+  {
+    "artist": "U2",
+    "album": "All That You Can't Leave Behind",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/U2-all-that-you-cant-leave-behind.jpg/220px-U2-all-that-you-cant-leave-behind.jpg",
+    "owned": false
+  },
+  {
+    "artist": "The Clash",
+    "album": "London Calling",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/TheClashLondonCallingalbumcover.jpg/220px-TheClashLondonCallingalbumcover.jpg",
+    "owned": false
+  },
+  {
+    "artist": "The Clash",
+    "album": "Combat Rock",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/The_Clash_-_Combat_Rock.jpg/220px-The_Clash_-_Combat_Rock.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Fatboy Slim",
+    "album": "You've Come a Long Way Baby",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/YouveComeALongWayBaby2.jpg/220px-YouveComeALongWayBaby2.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Lou Reed",
+    "album": "Transformer",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Loureedtransformer.jpeg/220px-Loureedtransformer.jpeg",
+    "owned": false
+  },
+  {
+    "artist": "Metronomy",
+    "album": "The English Riviera",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/METRONOMY_THE_ENGLISH_RIVIERA_ALBUMCOVER.jpg/220px-METRONOMY_THE_ENGLISH_RIVIERA_ALBUMCOVER.jpg",
+    "owned": false
+  },
+  {
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Alt-J_-_An_Awesome_Wave.png/220px-Alt-J_-_An_Awesome_Wave.png",
+    "owned": false
+  },
+  {
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/NirvanaNevermindalbumcover.jpg/220px-NirvanaNevermindalbumcover.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Metallica",
+    "album": "Metallica",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Metallica_-_Metallica_cover.jpg/220px-Metallica_-_Metallica_cover.jpg",
+    "owned": false
   }
 ]
