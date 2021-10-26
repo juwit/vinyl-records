@@ -42,6 +42,12 @@
     "owned": true
   },
   {
+    "artist": "Led Zeppelin",
+    "album": "The Song Remains the Same",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Led_Zeppelin_-_The_Song_Remains_the_Same.jpg/220px-Led_Zeppelin_-_The_Song_Remains_the_Same.jpg",
+    "owned": true
+  },
+  {
     "artist": "The White Stripes",
     "album": "The White Stripes Greatest Hits",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/The_White_Stripes_-_Greatest_Hits.png/220px-The_White_Stripes_-_Greatest_Hits.png",
@@ -58,5 +64,179 @@
     "album": "Ed Banger 15 Ans",
     "cover": "https://img.discogs.com/YJ0D4lRgCSjLGu7UyBYYK3uBsLQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13597896-1557230350-5687.jpeg.jpg",
     "owned": true
+  },
+  {
+    "artist": "Lenny Kravitz",
+    "album": "Are you gonna go my way",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Lenny_Kravitz-Are_You_Gonna_Go_My_Way.gif/220px-Lenny_Kravitz-Are_You_Gonna_Go_My_Way.gif",
+    "owned": true
+  },
+  {
+    "artist": "ZZ Top",
+    "album": "Eliminator",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/ZZ_Top_-_Eliminator.jpg/220px-ZZ_Top_-_Eliminator.jpg",
+    "owned": true
+  },
+  {
+    "artist": "U2",
+    "album": "The Joshua Tree",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/The_Joshua_Tree.png/220px-The_Joshua_Tree.png",
+    "owned": true
+  },
+  {
+    "artist": "Portishead",
+    "album": "Roseland NYC Live",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Pnyc.jpg/220px-Pnyc.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Air",
+    "album": "Moon Safari",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Air_-_Moon_Safari.png/220px-Air_-_Moon_Safari.png",
+    "owned": true
+  },
+  {
+    "artist": "Air",
+    "album": "City Reading (Tre Storie Western)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/City_Reading_%28Tre_Storie_Western%29.jpg/220px-City_Reading_%28Tre_Storie_Western%29.jpg",
+    "owned": true
+  },
+  {
+    "artist": "The Doors",
+    "album": "L.A. Woman",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/The_Doors_-_L.A._Woman.jpg/220px-The_Doors_-_L.A._Woman.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Around the World",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Aroundtheworld_DaftPunk.jpg/220px-Aroundtheworld_DaftPunk.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Homework",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Daftpunk-homework.jpg/220px-Daftpunk-homework.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Discovery",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Daft_Punk_-_Discovery.jpg/220px-Daft_Punk_-_Discovery.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Human After All",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Humanafterall.jpg/220px-Humanafterall.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Random Access Memories",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Random_Access_Memories.jpg/220px-Random_Access_Memories.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "Meddle",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/MeddleCover.jpeg/220px-MeddleCover.jpeg",
+    "owned": true
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "The Dark Side of the Moon",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Dark_Side_of_the_Moon.png/220px-Dark_Side_of_the_Moon.png",
+    "owned": true
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "The Wall",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/PinkFloydWallCoverOriginalNoText.jpg/220px-PinkFloydWallCoverOriginalNoText.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Justice",
+    "album": "Cross",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Justice_-_Cross_%282007%29.jpg/220px-Justice_-_Cross_%282007%29.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Justice",
+    "album": "Audio, Video, Disco",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Audiovideodisco.jpg/220px-Audiovideodisco.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Justice",
+    "album": "Access All Arenas",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Justice_-_Access_All_Arenas.jpg/220px-Justice_-_Access_All_Arenas.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Kavinsky",
+    "album": "Nightcall",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Kavinsky_Nightcall_2010.png/220px-Kavinsky_Nightcall_2010.png",
+    "owned": true
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "album": "Bridge over Troubled Water",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Simon_and_Garfunkel%2C_Bridge_over_Troubled_Water_%281970%29.png/220px-Simon_and_Garfunkel%2C_Bridge_over_Troubled_Water_%281970%29.png",
+    "owned": true
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "album": "Parsley, Sage, Rosemary and Thyme",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/ParsleySage.jpg/220px-ParsleySage.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "album": "Sounds of Silence",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/SoundsSilence.jpg/220px-SoundsSilence.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Michael_Jackson_-_Thriller.png/220px-Michael_Jackson_-_Thriller.png",
+    "owned": true
+  },
+  {
+    "artist": "Scorpions",
+    "album": "Love at First Sting",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/The_Scorpions_LatFS.jpg/220px-The_Scorpions_LatFS.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Scorpions",
+    "album": "Crazy World",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ScorpionsCrazyWorld.jpg/220px-ScorpionsCrazyWorld.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Blondie",
+    "album": "The Best of Blondie",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Blondie_-_The_Best_of_Blondie.png/220px-Blondie_-_The_Best_of_Blondie.png",
+    "owned": true
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Yellow Submarine",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg/220px-TheBeatles-YellowSubmarinealbumcover.jpg",
+    "owned": true
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg/220px-Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg",
+    "owned": false
+  },
+  {
+    "artist": "The Velvet Underground",
+    "album": "The Velvet Underground & Nico",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Velvet_Underground_and_Nico.jpg/220px-Velvet_Underground_and_Nico.jpg",
+    "owned": false
   }
 ]
