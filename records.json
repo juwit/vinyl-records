@@ -322,5 +322,11 @@
     "album": "Metallica",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Metallica_-_Metallica_cover.jpg/220px-Metallica_-_Metallica_cover.jpg",
     "owned": false
+  },
+  {
+    "artist": "Bon Jovi",
+    "album": "Slippery When Wet",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Bon_jovi_slippery_when_wet.jpg/220px-Bon_jovi_slippery_when_wet.jpg",
+    "owned": false
   }
 ]
