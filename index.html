@@ -53,8 +53,9 @@
             filter: () => true
         },
         async created() {
-            const response = await fetch("records.json");
+            const response = await fetch("https://juwit.github.io/vinyl-records/records.json");
             this.records = await response.json();
+            this.records = this.records.sort((a,b) => a.album > b.album);
         },
         computed: {
             filteredRecords() {
