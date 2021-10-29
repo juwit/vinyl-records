@@ -19,6 +19,11 @@
     <nav class="navbar nav-pills justify-content-center">
         <a class="nav-link" href="#" @click="owned()" v-bind:class="{active: activeFilter==='owned'}">Owned</a>
         <a class="nav-link" href="#" @click="wishlist()" v-bind:class="{active: activeFilter==='wishlist'}">Wishlist</a>
+
+        <form class="d-flex">
+            <input class="form-control me-2" type="filter" placeholder="Filter" v-model="textFilter">
+            <button class="btn btn-outline-primary" @click="textFilter = ''">Clear</button>
+        </form>
     </nav>
 
     <div class="row row-cols-1 row-cols-md-4 g-2" id="records">
@@ -50,7 +55,8 @@
         data: {
             records: [],
             activeFilter: "",
-            filter: () => true
+            filter: () => true,
+            textFilter: ""
         },
         async created() {
             const response = await fetch("https://juwit.github.io/vinyl-records/records.json");
@@ -59,7 +65,9 @@
         },
         computed: {
             filteredRecords() {
-                return this.records.filter(this.filter);
+                return this.records.filter(this.filter)
+                        .filter(it => it.album.toLowerCase().includes(this.textFilter.toLowerCase())
+                                || it.artist.toLowerCase().includes(this.textFilter.toLowerCase()) );
             }
         },
         methods:{
