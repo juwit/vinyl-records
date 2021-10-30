@@ -318,6 +318,12 @@
     "owned": false
   },
   {
+    "artist": "Nirvana",
+    "album": "MTV Unplugged in New York",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Nirvana_mtv_unplugged_in_new_york.png/220px-Nirvana_mtv_unplugged_in_new_york.png",
+    "owned": false
+  },
+  {
     "artist": "Metallica",
     "album": "Metallica",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Metallica_-_Metallica_cover.jpg/220px-Metallica_-_Metallica_cover.jpg",
@@ -334,5 +340,35 @@
     "album": "La revancha del tango",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Gotanrevancha.jpg/220px-Gotanrevancha.jpg",
     "owned": true
+  },
+  {
+    "artist": "Phoenix",
+    "album": "United",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/PhoenixUnitedalbumcover.jpg/220px-PhoenixUnitedalbumcover.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Phoenix",
+    "album": "Alphabetical",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/PhoenixAlphabeticalalbumcover.jpg/220px-PhoenixAlphabeticalalbumcover.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Phoenix",
+    "album": "Wolfgang Amadeus Phoenix",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Phoenix_-_Wolfgang_Amadeus_Phoenix.png/220px-Phoenix_-_Wolfgang_Amadeus_Phoenix.png",
+    "owned": false
+  },
+  {
+    "artist": "Amy Winehouse",
+    "album": "Back to black",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Amy_Winehouse_-_Back_to_Black_%28album%29.png/220px-Amy_Winehouse_-_Back_to_Black_%28album%29.png",
+    "owned": false
+  },
+  {
+    "artist": "Coldplay",
+    "album": "Viva la vida",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Viva_la_Vida_or_Death_and_All_His_Friends.jpg/220px-Viva_la_Vida_or_Death_and_All_His_Friends.jpg",
+    "owned": false
   }
 ]
