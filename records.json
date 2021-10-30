@@ -261,7 +261,7 @@
     "artist": "Alanis Morissette",
     "album": "Jagged Little Pill",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Alanis_Morissette_-_Jagged_Little_Pill.jpg/220px-Alanis_Morissette_-_Jagged_Little_Pill.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "REM",
@@ -279,7 +279,7 @@
     "artist": "The Clash",
     "album": "London Calling",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/TheClashLondonCallingalbumcover.jpg/220px-TheClashLondonCallingalbumcover.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "The Clash",
@@ -291,7 +291,7 @@
     "artist": "Fatboy Slim",
     "album": "You've Come a Long Way Baby",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/YouveComeALongWayBaby2.jpg/220px-YouveComeALongWayBaby2.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "Lou Reed",
@@ -328,5 +328,11 @@
     "album": "Slippery When Wet",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Bon_jovi_slippery_when_wet.jpg/220px-Bon_jovi_slippery_when_wet.jpg",
     "owned": false
+  },
+  {
+    "artist": "Gotan Project",
+    "album": "La revancha del tango",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Gotanrevancha.jpg/220px-Gotanrevancha.jpg",
+    "owned": true
   }
 ]
