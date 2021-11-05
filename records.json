@@ -370,5 +370,17 @@
     "album": "Viva la vida",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Viva_la_Vida_or_Death_and_All_His_Friends.jpg/220px-Viva_la_Vida_or_Death_and_All_His_Friends.jpg",
     "owned": false
+  },
+  {
+    "artist": "Midnight Juggernauts",
+    "album": "Dystopia",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Midnight_Juggernauts_dystopia_2007.jpg/220px-Midnight_Juggernauts_dystopia_2007.jpg",
+    "owned": false
+  },
+  {
+    "artist": "Digitalism",
+    "album": "Idealism",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Digitalism_-_Idealism.jpg/220px-Digitalism_-_Idealism.jpg",
+    "owned": false
   }
 ]
