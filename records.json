@@ -406,5 +406,11 @@
     "album": "Once In A Long Long While...",
     "cover": "https://img.discogs.com/xgqdvoR67b-KM8KLLugFsiURTL4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10158784-1492638521-1167.jpeg.jpg",
     "owned": false
+  },
+  {
+    "artist": "Coldplay",
+    "album": "Music of the Spheres",
+    "cover": "https://img.discogs.com/13YnMQeInwYGCllq7odtxbP7j0Y=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-20587606-1634670110-4723.jpeg.jpg",
+    "owned": true
   }
 ]
