@@ -400,5 +400,11 @@
     "album": "Birdy Nam Nam",
     "cover": "https://img.discogs.com/zH6f_YuNBfReifMqHaXeHlaGaPo=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-968916-1178971755.jpeg.jpg",
     "owned": false
+  },
+  {
+    "artist": "Low Roar",
+    "album": "Once In A Long Long While...",
+    "cover": "https://img.discogs.com/xgqdvoR67b-KM8KLLugFsiURTL4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10158784-1492638521-1167.jpeg.jpg",
+    "owned": false
   }
 ]
