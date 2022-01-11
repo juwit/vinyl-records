@@ -273,7 +273,7 @@
     "artist": "U2",
     "album": "All That You Can't Leave Behind",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/U2-all-that-you-cant-leave-behind.jpg/220px-U2-all-that-you-cant-leave-behind.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "The Clash",
