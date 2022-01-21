@@ -412,5 +412,17 @@
     "album": "Music of the Spheres",
     "cover": "https://img.discogs.com/13YnMQeInwYGCllq7odtxbP7j0Y=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-20587606-1634670110-4723.jpeg.jpg",
     "owned": true
+  },
+  {
+    "artist": "Franz Ferdinand",
+    "album": "Franz Ferdinand",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Franz-Ferdinand.PNG/220px-Franz-Ferdinand.PNG",
+    "owned": false
+  },
+  {
+    "artist": "Franz Ferdinand",
+    "album": "Tonight",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Tonight-FF.jpg/220px-Tonight-FF.jpg",
+    "owned": true
   }
 ]
