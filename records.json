@@ -228,12 +228,6 @@
     "owned": true
   },
   {
-    "artist": "The Beatles",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg/220px-Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg",
-    "owned": false
-  },
-  {
     "artist": "The Velvet Underground",
     "album": "The Velvet Underground & Nico",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Velvet_Underground_and_Nico.jpg/220px-Velvet_Underground_and_Nico.jpg",
@@ -373,8 +367,8 @@
   },
   {
     "artist": "Coldplay",
-    "album": "Viva la vida",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Viva_la_Vida_or_Death_and_All_His_Friends.jpg/220px-Viva_la_Vida_or_Death_and_All_His_Friends.jpg",
+    "album": "Viva la Vida or Death and All His Friends",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Coldplay_-_Viva_la_Vida_or_Death_and_All_His_Friends.png/220px-Coldplay_-_Viva_la_Vida_or_Death_and_All_His_Friends.png",
     "owned": false
   },
   {
