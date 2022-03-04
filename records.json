@@ -303,7 +303,7 @@
     "artist": "Metronomy",
     "album": "The English Riviera",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/METRONOMY_THE_ENGLISH_RIVIERA_ALBUMCOVER.jpg/220px-METRONOMY_THE_ENGLISH_RIVIERA_ALBUMCOVER.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "alt-J",
@@ -424,5 +424,47 @@
     "album": "Tonight",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Tonight-FF.jpg/220px-Tonight-FF.jpg",
     "owned": false
+  },
+  {
+    "artist": "Guns n' Roses",
+    "album": "Appetite for destruction",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg/220px-GunsnRosesAppetiteforDestructionalbumcover.jpg",
+    "owned": true
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg/220px-Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg",
+    "owned": true
+  },
+  {
+    "artist": "London Grammar",
+    "album": "If you wait",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/London_Grammar_-_If_You_Wait.png/220px-London_Grammar_-_If_You_Wait.png",
+    "owned": true
+  },
+  {
+    "artist": "Fugees",
+    "album": "The Score",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Fugees_-_The_Score.png/220px-Fugees_-_The_Score.png",
+    "owned": true
+  },
+  {
+    "artist": "Mr Oizo",
+    "album": "Voilà",
+    "cover": "https://i.discogs.com/P6CRyyXgLM9Dybt0ZcuneeFcI2alGA-opbSm4KCWYuk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTAw/MDc2LTE2NDUxMjA1/OTQtMTQ1My5qcGVn.jpeg",
+    "owned": true
+  },
+  {
+    "artist": "Selah Sue",
+    "album": "Selah Sue",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SelahSue.jpg/220px-SelahSue.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Around the world - a daft punk tribute",
+    "album": "Various Artists",
+    "cover": "https://www.vinylcorner.fr/3202294-large_default/around-the-world-a-daft-punk-tribute.jpg",
+    "owned": true
   }
 ]
