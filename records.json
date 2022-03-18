@@ -460,5 +460,17 @@
     "album": "Various Artists",
     "cover": "https://www.vinylcorner.fr/3202294-large_default/around-the-world-a-daft-punk-tribute.jpg",
     "owned": true
+  },
+  {
+    "artist": "Tame Impala",
+    "album": "Currents",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Tame_Impala_-_Currents.png/220px-Tame_Impala_-_Currents.png",
+    "owned": false
+  },
+  {
+    "artist": "Tame Impala",
+    "album": "Lonerism",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Tame_Impala_-_Lonerism.png/220px-Tame_Impala_-_Lonerism.png",
+    "owned": false
   }
 ]
