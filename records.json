@@ -472,5 +472,11 @@
     "album": "Lonerism",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Tame_Impala_-_Lonerism.png/220px-Tame_Impala_-_Lonerism.png",
     "owned": false
+  },
+  {
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Tame_Impala_-_The_Slow_Rush.png/220px-Tame_Impala_-_The_Slow_Rush.png",
+    "owned": false
   }
 ]
