@@ -478,5 +478,17 @@
     "album": "The Slow Rush",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Tame_Impala_-_The_Slow_Rush.png/220px-Tame_Impala_-_The_Slow_Rush.png",
     "owned": false
+  },
+  {
+    "artist": "The Ting Tings",
+    "album": "We Started Nothing",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/The_Ting_Tings_We_Started_Nothing_album_cover.png/220px-The_Ting_Tings_We_Started_Nothing_album_cover.png",
+    "owned": false
+  },
+  {
+    "artist": "The Ting Tings",
+    "album": "Sounds From Nowheresville",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Soundsfromnowheresville.jpg/220px-Soundsfromnowheresville.jpg",
+    "owned": false
   }
 ]
