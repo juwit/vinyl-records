@@ -19,8 +19,13 @@
 <div id="app" class="container-fluid">
 
     <nav class="navbar nav-pills justify-content-center">
-        <a class="nav-link" href="#" @click="owned()" v-bind:class="{active: activeFilter==='owned'}">Owned</a>
-        <a class="nav-link" href="#" @click="wishlist()" v-bind:class="{active: activeFilter==='wishlist'}">Wishlist</a>
+
+        <a class="nav-link" href="#" @click="owned()" v-bind:class="{active: activeFilter==='owned'}">
+            Owned <span class="badge bg-secondary">{{ this.records.filter(it => it.owned === true).length }}</span>
+        </a>
+        <a class="nav-link" href="#" @click="wishlist()" v-bind:class="{active: activeFilter==='wishlist'}">
+            Wishlist <span class="badge bg-secondary">{{ this.records.filter(it => it.owned === false).length }}</span>
+        </a>
 
         <form class="d-flex">
             <input class="form-control me-2" type="filter" placeholder="Filter" v-model="textFilter">
