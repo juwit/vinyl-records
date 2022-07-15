@@ -456,6 +456,12 @@
     "owned": true
   },
   {
+    "artist": "Selah Sue",
+    "album": "Persona",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Selah_Sue_-_Persona.png/220px-Selah_Sue_-_Persona.png",
+    "owned": true
+  },
+  {
     "artist": "Various Artists",
     "album": "Around the world - a daft punk tribute",
     "cover": "https://i.scdn.co/image/ab67616d0000b2735ed03801c252a9cf0fcba46c",
