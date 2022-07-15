@@ -231,7 +231,7 @@
     "artist": "The Velvet Underground",
     "album": "The Velvet Underground & Nico",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Velvet_Underground_and_Nico.jpg/220px-Velvet_Underground_and_Nico.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "Moby",
