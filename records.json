@@ -420,6 +420,12 @@
     "owned": false
   },
   {
+    "artist": "Franz Ferdinand",
+    "album": "Hits to the Head",
+    "cover": "https://i.discogs.com/4ZJ6T53NDgsMg73RTycayr29h0peeDMkdM8f_8avO_A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY2/NjI2LTE2NDc3ODc1/MjYtNjI5MC5qcGVn.jpeg",
+    "owned": true
+  },
+  {
     "artist": "Guns n' Roses",
     "album": "Appetite for destruction",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg/220px-GunsnRosesAppetiteforDestructionalbumcover.jpg",
