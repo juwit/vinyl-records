@@ -526,5 +526,11 @@
     "album": "Attack & Release",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/BlackKeys-Attack%26Release.png/220px-BlackKeys-Attack%26Release.png",
     "owned": false
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "album": "Californication",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/RedHotChiliPeppersCalifornication.jpg",
+    "owned": false
   }
 ]
