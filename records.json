@@ -108,6 +108,12 @@
     "owned": true
   },
   {
+    "artist": "The Doors",
+    "album": "The Doors",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/98/TheDoorsTheDoorsalbumcover.jpg",
+    "owned": true
+  },
+  {
     "artist": "Daft Punk",
     "album": "Around the World",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Aroundtheworld_DaftPunk.jpg/220px-Aroundtheworld_DaftPunk.jpg",
@@ -321,7 +327,7 @@
     "artist": "Metallica",
     "album": "Metallica",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Metallica_-_Metallica_cover.jpg/220px-Metallica_-_Metallica_cover.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "Bon Jovi",
@@ -444,6 +450,12 @@
     "owned": true
   },
   {
+    "artist": "London Grammar",
+    "album": "Californian Soil",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/b9/London_Grammar_-_Californian_Soil.png",
+    "owned": true
+  },
+  {
     "artist": "Fugees",
     "album": "The Score",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Fugees_-_The_Score.png/220px-Fugees_-_The_Score.png",
@@ -471,6 +483,12 @@
     "artist": "Various Artists",
     "album": "Around the world - a daft punk tribute",
     "cover": "https://i.scdn.co/image/ab67616d0000b2735ed03801c252a9cf0fcba46c",
+    "owned": true
+  },
+  {
+    "artist": "Various Artists",
+    "album": "Tron: Legacy Reconfigured",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tronlegacyreconfigured.jpg",
     "owned": true
   },
   {
@@ -532,5 +550,17 @@
     "album": "Californication",
     "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/RedHotChiliPeppersCalifornication.jpg",
     "owned": false
+  },
+  {
+    "artist": "Vitalic",
+    "album": "FlashMob",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/c4/Flashmob-by-vitalic.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Bobby Krlic",
+    "album": "Returnal",
+    "cover": "https://static.fnac-static.com/multimedia/Images/FR/NR/bf/0d/da/14290367/1520-3/tsp20220412152425/Returnal-Vinyle-Jaune.jpg",
+    "owned": true
   }
 ]
