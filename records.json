@@ -549,7 +549,7 @@
     "artist": "Red Hot Chili Peppers",
     "album": "Californication",
     "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/RedHotChiliPeppersCalifornication.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "Vitalic",
