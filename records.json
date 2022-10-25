@@ -249,7 +249,7 @@
     "artist": "Moby",
     "album": "Play",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Moby_play.JPG/220px-Moby_play.JPG",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "Outkast",
