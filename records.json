@@ -568,5 +568,11 @@
     "album": "Returnal",
     "cover": "https://static.fnac-static.com/multimedia/Images/FR/NR/bf/0d/da/14290367/1520-3/tsp20220412152425/Returnal-Vinyle-Jaune.jpg",
     "owned": true
+  },
+  {
+    "artist": "Carpenter Brut",
+    "album": "Carpenter Brut III",
+    "cover": "https://i.discogs.com/XzL4oNlgRJ0yW01oVjV-aqDpH1C7iuIdNWG3hP7VFSU/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA0/NjU0LTE1ODkyMjgw/MTEtMjI5Ni5qcGVn.jpeg",
+    "owned": false
   }
 ]
