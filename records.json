@@ -97,6 +97,12 @@
   },
   {
     "artist": "Air",
+    "album": "Talkie Walkie",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/8/8e/Air_-_Talkie_Walkie.png",
+    "owned": true
+  },
+  {
+    "artist": "Air",
     "album": "City Reading (Tre Storie Western)",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/City_Reading_%28Tre_Storie_Western%29.jpg/220px-City_Reading_%28Tre_Storie_Western%29.jpg",
     "owned": true
@@ -148,6 +154,12 @@
     "album": "Random Access Memories",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Random_Access_Memories.jpg/220px-Random_Access_Memories.jpg",
     "owned": false
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Alive 2007",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/49/Daft_Punk_Alive_2007.JPG?20071208221005",
+    "owned": true
   },
   {
     "artist": "Pink Floyd",
@@ -498,6 +510,12 @@
     "owned": true
   },
   {
+    "artist": "Daft Punk",
+    "album": "Tron: Legacy (Original Motion Picture Soundtrack)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/39/Tron_Legacy_Soundtrack.jpg",
+    "owned": true
+  },
+  {
     "artist": "Tame Impala",
     "album": "Currents",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Tame_Impala_-_Currents.png/220px-Tame_Impala_-_Currents.png",
@@ -558,6 +576,12 @@
     "owned": true
   },
   {
+    "artist": "Red Hot Chili Peppers",
+    "album": "Return of the Dream Canteen",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Return_of_the_Dream_Canteen.webp/316px-Return_of_the_Dream_Canteen.webp.png",
+    "owned": true
+  },
+  {
     "artist": "Vitalic",
     "album": "FlashMob",
     "cover": "https://upload.wikimedia.org/wikipedia/en/c/c4/Flashmob-by-vitalic.jpg",
@@ -574,5 +598,11 @@
     "album": "Carpenter Brut III",
     "cover": "https://i.discogs.com/XzL4oNlgRJ0yW01oVjV-aqDpH1C7iuIdNWG3hP7VFSU/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA0/NjU0LTE1ODkyMjgw/MTEtMjI5Ni5qcGVn.jpeg",
     "owned": false
+  },
+  {
+    "artist": "Foo Fighters",
+    "album": "The Essential Foo Fighters",
+    "cover": "https://i.discogs.com/ZqfA0H6ivThb0BkmWV2wUgrK_Jk7jMXTd0FsPCJx4Aw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY2/MjE0LTE2NjcyMjk1/MTEtMzY1OC5qcGVn.jpeg",
+    "owned": true
   }
 ]
