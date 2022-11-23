@@ -153,7 +153,7 @@
     "artist": "Daft Punk",
     "album": "Random Access Memories",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Random_Access_Memories.jpg/220px-Random_Access_Memories.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "Daft Punk",
