@@ -282,6 +282,12 @@
     "owned": false
   },
   {
+    "artist": "Röyksopp",
+    "album": "Profound Misteries",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/b7/R%C3%B6yksopp_-_Profound_Mysteries_-_cover.png",
+    "owned": true
+  },
+  {
     "artist": "Alanis Morissette",
     "album": "Jagged Little Pill",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Alanis_Morissette_-_Jagged_Little_Pill.jpg/220px-Alanis_Morissette_-_Jagged_Little_Pill.jpg",
