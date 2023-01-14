@@ -157,6 +157,12 @@
   },
   {
     "artist": "Daft Punk",
+    "album": "Alive 1997",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0f/Aliveg.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Daft Punk",
     "album": "Alive 2007",
     "cover": "https://upload.wikimedia.org/wikipedia/en/4/49/Daft_Punk_Alive_2007.JPG?20071208221005",
     "owned": true
