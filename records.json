@@ -616,5 +616,11 @@
     "album": "The Essential Foo Fighters",
     "cover": "https://i.discogs.com/ZqfA0H6ivThb0BkmWV2wUgrK_Jk7jMXTd0FsPCJx4Aw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY2/MjE0LTE2NjcyMjk1/MTEtMzY1OC5qcGVn.jpeg",
     "owned": true
+  },
+  {
+    "artist": "Sébastien Tellier",
+    "album": "Sexuality",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/SebastienTellierSexualityCover.jpg",
+    "owned": true
   }
 ]
