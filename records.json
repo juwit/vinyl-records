@@ -139,6 +139,12 @@
   },
   {
     "artist": "Daft Punk",
+    "album": "Homework (Remixes)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/98/Daft_Punk_Homework_Remixes.jpg",
+    "owned": true
+  },
+  {
+    "artist": "Daft Punk",
     "album": "Discovery",
     "cover": "https://upload.wikimedia.org/wikipedia/en/2/27/Daft_Punk_-_Discovery.png",
     "owned": false
