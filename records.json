@@ -628,5 +628,11 @@
     "album": "Sexuality",
     "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/SebastienTellierSexualityCover.jpg",
     "owned": true
+  },
+  {
+    "artist": "Bobby Krlic",
+    "album": "Returnal - Video Game Soundtrack",
+    "cover": "https://i.discogs.com/qmDgVPwYe-J2Wel7STO6eW81VmCpgou_A3uJwjv9kwc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzc4/NjExLTE2NTgwMTI0/NzAtNTM4NC5qcGVn.jpeg",
+    "owned": true
   }
 ]
