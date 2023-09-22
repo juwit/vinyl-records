@@ -634,5 +634,11 @@
     "album": "Returnal - Video Game Soundtrack",
     "cover": "https://i.discogs.com/qmDgVPwYe-J2Wel7STO6eW81VmCpgou_A3uJwjv9kwc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzc4/NjExLTE2NTgwMTI0/NzAtNTM4NC5qcGVn.jpeg",
     "owned": true
+  },
+  {
+    "artist": "Selah Sue",
+    "album": "Reason",
+    "cover": "https://i.discogs.com/NKmjcskfCMrpNBC_Fh_LtsA0OgpmwzjEXxDOhQiwEuc/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzM0/NjctMTQ2MzU3ODEw/NC0yMDgzLmpwZWc.jpeg",
+    "owned": false
   }
 ]
