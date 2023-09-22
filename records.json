@@ -369,7 +369,7 @@
     "artist": "alt-J",
     "album": "An Awesome Wave",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Alt-J_-_An_Awesome_Wave.png/220px-Alt-J_-_An_Awesome_Wave.png",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "Nirvana",
