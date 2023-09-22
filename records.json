@@ -288,6 +288,18 @@
     "owned": true
   },
   {
+    "artist": "Moby",
+    "album": "Reprise",
+    "cover": "https://i.discogs.com/ni2e6UVw8PvOQq2PDz1g8r-VUXOUsifW5CU4vF0ED5g/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg5/NDA0LTE2MjE4NjMx/ODMtODUwNi5qcGVn.jpeg",
+    "owned": true
+  },
+  {
+    "artist": "Moby",
+    "album": "18",
+    "cover": "https://i.discogs.com/wsSCpDgeD6LlwIWilhQuMBcF2-rjl__CDs-dh1nw6NE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzQ4/LTEzOTEyNTg3MDAt/MzY4Mi5qcGVn.jpeg",
+    "owned": false
+  },
+  {
     "artist": "Outkast",
     "album": "Stankonia",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/OutKast_-_Stankonia.JPG/220px-OutKast_-_Stankonia.JPG",
