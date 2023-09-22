@@ -163,6 +163,12 @@
   },
   {
     "artist": "Daft Punk",
+    "album": "Random Access Memories (10th Anniversary Edition)",
+    "cover": "https://i.discogs.com/B8r9egFISje41D_qJh9r-fwNdr1FqcxJYpJkeUw7giY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDMx/NzQzLTE2ODM5Nzk2/MjEtMzYyMi5qcGVn.jpeg",
+    "owned": true
+  },
+  {
+    "artist": "Daft Punk",
     "album": "Alive 1997",
     "cover": "https://upload.wikimedia.org/wikipedia/en/0/0f/Aliveg.jpg",
     "owned": true
