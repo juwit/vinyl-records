@@ -640,5 +640,11 @@
     "album": "Reason",
     "cover": "https://i.discogs.com/NKmjcskfCMrpNBC_Fh_LtsA0OgpmwzjEXxDOhQiwEuc/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzM0/NjctMTQ2MzU3ODEw/NC0yMDgzLmpwZWc.jpeg",
     "owned": false
+  },
+  {
+    "artist": "Thomas Bangalter",
+    "album": "Mythologies",
+    "cover": "https://i.discogs.com/cmFNicprzfJOKdV7sr-KHMtY8vUvcKTcsJNgRjBsBZg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njcx/MDg1LTE2ODA4ODMx/MDUtMjQ3My5qcGVn.jpeg",
+    "owned": true
   }
 ]
